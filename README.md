@@ -31,7 +31,7 @@
 
 ## Usage
 
-[Xray-examples](https://github.com/XTLS/Xray-examples) / [VLESS-TCP-XTLS-WHATEVER](https://github.com/XTLS/Xray-examples/tree/main/VLESS-TCP-XTLS-WHATEVER)
+[Xray-examples] (https://github.com/20122000348X/Xray-examples) / [VLESS-TCP-20122000348X-WHATEVER] (https://github.com/20122000348X/Xray-examples/tree/main/VLESS -TCP-20122000348X-WHATEVER）
 
 ## GUI Clients
 
